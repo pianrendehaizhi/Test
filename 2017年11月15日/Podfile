@@ -1,0 +1,14 @@
+project '2017年11月15日.xcodeproj'
+
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+
+target '2017年11月15日' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for 2017年11月15日
+
+end
